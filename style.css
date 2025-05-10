@@ -3,7 +3,7 @@
     position: sticky;
     top: 0;
     z-index: 1000;
-    background-color: #0000ff;
+    background-color: #850765;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
     display: flex;
     justify-content: center;
@@ -68,7 +68,7 @@
 }
 
 .home-button {
-    background-color: #b36dff;
+    background-color: #8d1e10;
     color: white;
     border-radius: 20px;
     padding: 8px 20px;
